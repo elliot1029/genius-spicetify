@@ -123,9 +123,8 @@
 
 .lyrics-lines-container .no-lyrics-message {
     width: 70%;
-    color: var(--modspotify_sidebar_and_player_bg);
-    margin: 0 auto;
-    text-shadow: 0 0 10px hsla(0, 0%, 100%, .25);
+    color: #FFFFFF;
+    margin: 0 auto; 
 }
 
 .message-container-inner {
